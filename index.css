@@ -1,0 +1,37 @@
+body{
+  height: 3000px;
+  padding-top: 60px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  background-color: rgb(243, 233, 220);
+  top: 0;
+  width: 80%;
+  height: 60px;
+}
+.tw-img{
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+  border-radius: 15px;
+}
+.post-img{
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+}
+.profile-post{
+  display: flex;
+  align-items: center;      
+  justify-content: space-bet ;
+
+}
+.h-menu{
+  height: 25px;
+}
